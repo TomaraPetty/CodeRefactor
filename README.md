@@ -1,13 +1,18 @@
 # CodeRefactor
 Horiseon Homepage
+* Visit the page here: https://tomarapetty.github.io/CodeRefactor/
+* I refactored this site to optimize the html and css functionality. 
 
-This repo includes all of the files and assets to the Horiseon Homepage. Horiseon is a start-up that focuses on Search Engine Optimization, Online Reputation Management, and Social Media Marketing. In this repo you will find the HTML, CSS and Images that compile the Horiseon website.
+## Overview
+This repo includes all of the files and assets to the Horiseon Homepage. 
+* Horiseon is a start-up that focuses on Search Engine Optimization, Online Reputation Management, and Social Media Marketing. 
+* In this repo you will find the HTML, CSS and Images that compile the Horiseon website.
 
-HTML
+### HTML
 The HTML includes a header, nav bar, hero image, three sections describing the company's services, a side section outlining benefits and a footer.
 
-CSS
+### CSS
 The site is styled entirely with CSS on a separate styles sheet.
 
-Images
+### Images
 There are seven images that help visualize the services.
